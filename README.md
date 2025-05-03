@@ -5,6 +5,16 @@ Este repositório contém vários exercícios em JavaScript que utilizam o pacot
 ## Pré-requisitos
 
 - [Node.js](https://nodejs.org/) instalado na sua máquina.
+- Um editor de código-fonte, como o VS CODE
+
+## Como clonar o repositório
+
+Se quiser baixar o projeto diretamente do GitHub usando Git, execute no terminal:
+
+```bash
+git clone https://github.com/Jfcfeula/maisprati-codigos.git
+cd maisprati-codigos
+
 
 ## Instalação
 
