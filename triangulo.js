@@ -1,8 +1,8 @@
 const readline = require('readline-sync');
 
-const A = parseFloat(readline.question('Digite o valor do lado A: '));
-const B = parseFloat(readline.question('Digite o valor do lado B: '));
-const C = parseFloat(readline.question('Digite o valor do lado C: '));
+let A = readline.questionFloat('Escreva o valor do lado A:');
+let B = readline.questionFloat('Escreva o valor do lado B:');
+let C = readline.questionFloat('Escreva o valor do lado C:');
 
 if (A < B + C && B < A + C && C < A + B) {
     if (A === B && B === C) {
