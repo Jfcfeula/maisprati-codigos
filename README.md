@@ -50,4 +50,3 @@ node tabuada.js
 
 ---
 
-Sinta-se à vontade para explorar e modificar os arquivos conforme desejar.
