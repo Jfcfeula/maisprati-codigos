@@ -20,7 +20,7 @@ cd maisprati-codigos
 
 No diretório do projeto, execute o comando para instalar a dependência:
 
-```bash
+
 npm install readline-sync
 ```
 
