@@ -1,6 +1,4 @@
-# maisprati-codigos
-
-# Exercícios JavaScript
+# Exercícios JavaScript +praTI & Codifica
 
 Este repositório contém vários exercícios em JavaScript que utilizam o pacote `readline-sync` para entrada de dados via console.
 
